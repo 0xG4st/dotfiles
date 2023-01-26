@@ -62,5 +62,5 @@
 # Contact Me
 
 Twitter   - [@0xGast](https://twitter.com/0xGast)
-| Github    - [@0xGast](https://github.com/0xGast)
+| Github    - [@0xG4st](https://github.com/0xG4st)
 | Tryhackme - [@0xGast](https://tryhackme.com/p/0xGast)
