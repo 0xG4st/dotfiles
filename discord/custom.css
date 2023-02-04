@@ -31,6 +31,7 @@
     --badge-size: 22px; /*discord defualt = 18px, theme defualt = 22px;*/
     --badge-margin: 1.5px; /*discord default = 2px, theme defualt = 1.5px*/
     --badges-everywhere-size: 15px; /*default = 15px*/
+    --version1_0_6: none;
     --text-normal: #b7b5b8;
     --text-muted: #4a4a52;
     --text-link: #88807D;
@@ -42,21 +43,21 @@
     --interactive-hover: #b7b5b8;
     --interactive-active: #c9ced0;
     --interactive-muted: #4f545c;
-    --background-primary: #090B0F;
-    --background-secondary: #090B0F;
-    --background-secondary-alt: #090B0F;
-    --background-tertiary: #090B0F;
+    --background-primary: #12161b;
+    --background-secondary: #12161b;
+    --background-secondary-alt: #12161b;
+    --background-tertiary: #12161b;
     --background-accent: #4f545c;
-    --background-floating: #090B0F;
-    --channeltextarea-background: #090B0F;
+    --background-floating: #12161b;
+    --channeltextarea-background: #12161b;
     --info-positive-text: #fff;
     --info-warning-text: #fff;
     --info-warning-foreground: #88807D;
     --info-danger-text: #fff;
     --info-help-text: #fff;
-    --status-warning-text: #090B0F;
-    --background-mentioned: #090B0F;
-    --background-mentioned-hover: #090B0F;
+    --status-warning-text: #12161b;
+    --background-mentioned: #12161b;
+    --background-mentioned-hover: #12161b;
     --background-message-hover: rgba(4, 4, 5, 0.07);
     --scrollbar-auto-thumb: #88807D;
     --brand-experiment: #88807D;
@@ -69,58 +70,6 @@
     --code-font: "Source Code Pro";
     --boost-bar: none;
 }
-
-code {
-    background-color: #090B0F;
-}
-
-.pointerEvents-9SZWKj {
-    color: #2c3649;
-    background-color: #2c3649;
-}
-
-/* .content-2a4AW9 {
-    background-color: #090B0F;
-}
-
-.searchBar-3TnChZ {
-    background-color: #090B0F;
-}
-
-.scroller-WSmht3 {
-    background-color: #090B0F;
-}
-
-.thin-31rlnD {
-    background-color: #090B0F;
-}
-
-.scrollerBase-_bVAAt {
-    background-color: #090B0F;
-}
-.interactive-1vLZ_I {
-    background-color: #090B0F;
-}
-.interactive-iyXY_x{
-    background-color: #090B0F;
-}
-
-.fade-1R6FHN{
-    background-color: #090B0F;
-}
-.layout-1LjVue{
-    background-color: #090B0F;
-}
-.layout-1
-.closeButton-mupH76{
-    background-color: #090B0F;
-}
-.closeIcon-1NwtbI{
-    background-color: #090B0F;
-} */
-/* .link-39sEB3{
-    background-color: #090B0F;
-} */
 
 .icon-1zKOXL {
     display: none;
